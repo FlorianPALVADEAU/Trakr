@@ -1,0 +1,14 @@
+{
+  "phases": [
+    {"name": "Phase 0 · Reprise + prépa ski", "goal": "Reconstruire coude/lombaires, genoux bulletproof, charges à 90 % de l'avant-chirurgie. Calories à l'entretien (~2 900).", "starts_on": "2026-10-30", "ends_on": "2026-12-14"},
+    {"name": "Ski", "goal": "Tignes 15–19 déc, maison 20–25, Les Arcs 26–30.", "starts_on": "2026-12-15", "ends_on": "2026-12-30"},
+    {"name": "Phase 1 · Prise de masse propre", "goal": "+250 à +300 kcal, 0,25–0,4 kg/sem, ~78 → 82–83 kg. Frein : taille > 86 cm.", "starts_on": "2027-01-04", "ends_on": "2027-04-11"},
+    {"name": "Phase 2 · Sèche été", "goal": "Déficit 400–500 kcal, ~80–82 kg, taille ~80 cm, abdos nets mi-juin.", "starts_on": "2027-04-12", "ends_on": "2027-06-13"},
+    {"name": "Phase 3 · Été hybride", "goal": "Muscu 4 j de maintien + course 3–4×/sem. Objectif chiffré à choisir d'ici mars.", "starts_on": "2027-06-14", "ends_on": "2027-09-30"}
+  ],
+  "events": [
+    {"title": "Ski · Tignes (avec Eva)", "kind": "trip", "starts_on": "2026-12-15", "ends_on": "2026-12-19"},
+    {"title": "Ski · Les Arcs (copains)", "kind": "trip", "starts_on": "2026-12-26", "ends_on": "2026-12-30"},
+    {"title": "Visite chirurgien (coude)", "kind": "medical", "starts_on": "2026-10-28", "ends_on": "2026-10-28"}
+  ]
+}

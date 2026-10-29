@@ -1,0 +1,387 @@
+[
+ {
+  "date": "2026-10-30",
+  "kind": "legs",
+  "title": "Jambes",
+  "time": "11:30–13:00",
+  "week": 1,
+  "note": "Sommeil 7,5 h, HRV 54, forme 92 : séance complète. Le coude n’est pas sollicité, tu notes quand même ta douleur. Nouveau : bloc genoux de 12 min en fin de séance (prépa ski), 2 fois par semaine.",
+  "exercises": [
+   {
+    "id": "squat",
+    "name": "Squat",
+    "target": "2 échauffements + 3×8–10"
+   },
+   {
+    "id": "bulgarian",
+    "name": "Fentes bulgares",
+    "target": "3×8 par jambe"
+   },
+   {
+    "id": "leg_ext",
+    "name": "Leg extension",
+    "target": "3×12"
+   },
+   {
+    "id": "leg_curl",
+    "name": "Leg curl",
+    "target": "3×12"
+   },
+   {
+    "id": "add_abd",
+    "name": "Adducteurs / abducteurs",
+    "target": "2×15"
+   },
+   {
+    "id": "knee_spanish",
+    "name": "Bloc genoux · Spanish squat isométrique",
+    "target": "4×30 s",
+    "tip": "Sangle ou élastique derrière les genoux, tibias verticaux, tendon rotulien."
+   },
+   {
+    "id": "knee_stepdown",
+    "name": "Bloc genoux · Step-down excentrique",
+    "target": "3×8 par jambe · marche 15–20 cm, 4 s à la descente",
+    "tip": "Genou dans l’axe du pied, il ne rentre pas vers l’intérieur."
+   },
+   {
+    "id": "knee_tke",
+    "name": "Bloc genoux · Extension terminale du genou",
+    "target": "2×15 par jambe · élastique ou poulie"
+   },
+   {
+    "id": "knee_band_walk",
+    "name": "Bloc genoux · Marche latérale à l’élastique",
+    "target": "2×15 pas de chaque côté",
+    "tip": "Fessiers moyens : ils tiennent le genou dans l’axe."
+   },
+   {
+    "id": "calf_raise",
+    "name": "Bloc genoux · Mollets debout",
+    "target": "3×15 · descente lente",
+    "tip": "Pieds droits, avec tes semelles."
+   },
+   {
+    "id": "knee_tibialis",
+    "name": "Bloc genoux · Relevés de pointes de pieds",
+    "target": "2×20"
+   },
+   {
+    "id": "zone2",
+    "name": "Zone 2 (course facile ou vélo)",
+    "target": "20 min",
+    "tip": "Tu dois pouvoir parler."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-01",
+  "kind": "push",
+  "title": "Push · pecs, épaules, triceps",
+  "time": "15:00–16:30",
+  "week": 1,
+  "note": "Échauffement : 5 min cardio facile, bâton d’épaules, 2×15 triceps très léger, cercles de poignet. Reprise des triceps à charge réduite. Règle : douleur ≤2/10 en séance et ≤1/10 le lendemain matin avant d’augmenter. Ni barre au front ni dips profonds.",
+  "exercises": [
+   {
+    "id": "lateral_cable",
+    "name": "Élévations latérales poulie basse",
+    "target": "1 échauffement + 3×12–15",
+    "tip": "Activation, RPE 7."
+   },
+   {
+    "id": "shoulder_press",
+    "name": "Développé militaire haltères",
+    "target": "3×10 · ~60 % de ta charge habituelle",
+    "tip": "Poignet neutre. Stop si pincement d’épaule."
+   },
+   {
+    "id": "lateral_db",
+    "name": "Élévations latérales haltères lourdes",
+    "target": "3×12"
+   },
+   {
+    "id": "bench_db",
+    "name": "Développé couché haltères",
+    "target": "4×8 · ~70 % de ta charge habituelle",
+    "tip": "Descente 3 s. Le poignet ne part pas en arrière."
+   },
+   {
+    "id": "incline_db",
+    "name": "Développé incliné haltères",
+    "target": "3×10 · ~70 %"
+   },
+   {
+    "id": "fly_cable",
+    "name": "Poulie vis-à-vis prise basse",
+    "target": "3×12"
+   },
+   {
+    "id": "rear_fly",
+    "name": "Pec fly inversé",
+    "target": "3×12 (si temps)"
+   },
+   {
+    "id": "rope_pushdown",
+    "name": "Triceps corde, poulie haute",
+    "target": "3×15 · 15–17,5 kg",
+    "tip": "Douleur ≤2/10. Au-dessus de 15 kg, ça piquait mercredi."
+   },
+   {
+    "id": "overhead_rope",
+    "name": "Extension triceps overhead à la corde",
+    "target": "2×15 · 10–12,5 kg",
+    "tip": "Seulement si le pushdown est passé à ≤2/10. Position la plus sensible."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-02",
+  "kind": "pull",
+  "title": "Pull · dos, biceps",
+  "time": "11:30–13:00",
+  "week": 1,
+  "note": "Pas de lest sur les tractions, pas de négatives lourdes.",
+  "exercises": [
+   {
+    "id": "row_v",
+    "name": "Rowing barre, prise en V neutre",
+    "target": "Crescendo 40 → 50 → 60 kg · 2 reps au top"
+   },
+   {
+    "id": "pullups",
+    "name": "Tractions",
+    "target": "4×8–10 au poids du corps",
+    "tip": "Pas de lest cette semaine."
+   },
+   {
+    "id": "pulldown",
+    "name": "Tirage poulie haute vers le bassin",
+    "target": "3×12"
+   },
+   {
+    "id": "face_pull",
+    "name": "Face pull",
+    "target": "3×15"
+   },
+   {
+    "id": "shrugs",
+    "name": "Shrugs",
+    "target": "2×12"
+   },
+   {
+    "id": "spider_curl",
+    "name": "Curl spider",
+    "target": "3×12"
+   },
+   {
+    "id": "hammer_curl",
+    "name": "Curl marteau alterné",
+    "target": "3×10"
+   },
+   {
+    "id": "cable_curl",
+    "name": "Curl poulie basse",
+    "target": "2×15",
+    "tip": "Finisher, sans négative lourde."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "kind": "legs",
+  "title": "Jambes + abdos + lombaires",
+  "time": "11:30–13:00",
+  "week": 1,
+  "note": "Première semaine de travail lombaire léger. Nouveau : bloc genoux de 12 min en fin de séance (prépa ski), 2 fois par semaine.",
+  "exercises": [
+   {
+    "id": "squat",
+    "name": "Squat",
+    "target": "2 échauffements + 3×8–10"
+   },
+   {
+    "id": "bulgarian",
+    "name": "Fentes bulgares",
+    "target": "3×8 par jambe"
+   },
+   {
+    "id": "leg_ext",
+    "name": "Leg extension",
+    "target": "3×12"
+   },
+   {
+    "id": "leg_curl",
+    "name": "Leg curl",
+    "target": "3×12"
+   },
+   {
+    "id": "add_abd",
+    "name": "Adducteurs / abducteurs",
+    "target": "2×15"
+   },
+   {
+    "id": "back_ext",
+    "name": "Extensions lombaires",
+    "target": "2×12 légères",
+    "tip": "Nouveau : lombaires."
+   },
+   {
+    "id": "abs",
+    "name": "Abdos",
+    "target": "50 crunchs · 3×20 portefeuilles · 50 relevés de jambes · roue ou planche"
+   },
+   {
+    "id": "knee_spanish",
+    "name": "Bloc genoux · Spanish squat isométrique",
+    "target": "4×30 s",
+    "tip": "Sangle ou élastique derrière les genoux, tibias verticaux, tendon rotulien."
+   },
+   {
+    "id": "knee_stepdown",
+    "name": "Bloc genoux · Step-down excentrique",
+    "target": "3×8 par jambe · marche 15–20 cm, 4 s à la descente",
+    "tip": "Genou dans l’axe du pied, il ne rentre pas vers l’intérieur."
+   },
+   {
+    "id": "knee_tke",
+    "name": "Bloc genoux · Extension terminale du genou",
+    "target": "2×15 par jambe · élastique ou poulie"
+   },
+   {
+    "id": "knee_band_walk",
+    "name": "Bloc genoux · Marche latérale à l’élastique",
+    "target": "2×15 pas de chaque côté",
+    "tip": "Fessiers moyens : ils tiennent le genou dans l’axe."
+   },
+   {
+    "id": "calf_raise",
+    "name": "Bloc genoux · Mollets debout",
+    "target": "3×15 · descente lente",
+    "tip": "Pieds droits, avec tes semelles."
+   },
+   {
+    "id": "knee_tibialis",
+    "name": "Bloc genoux · Relevés de pointes de pieds",
+    "target": "2×20"
+   },
+   {
+    "id": "zone2",
+    "name": "Zone 2 (course facile ou vélo)",
+    "target": "20 min",
+    "tip": "Tu dois pouvoir parler."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "kind": "push",
+  "title": "Push · pecs, épaules, triceps",
+  "time": "11:30–13:00",
+  "week": 1,
+  "note": "Échauffement : 5 min cardio facile, bâton d’épaules, 2×15 triceps très léger, cercles de poignet. Mêmes charges que dimanche si le coude est à 0–1/10 ce matin. Sinon tu répètes.",
+  "exercises": [
+   {
+    "id": "lateral_cable",
+    "name": "Élévations latérales poulie basse",
+    "target": "1 échauffement + 3×12–15",
+    "tip": "Activation, RPE 7."
+   },
+   {
+    "id": "shoulder_press",
+    "name": "Développé militaire haltères",
+    "target": "3×10 · ~60 % de ta charge habituelle",
+    "tip": "Poignet neutre. Stop si pincement d’épaule."
+   },
+   {
+    "id": "lateral_db",
+    "name": "Élévations latérales haltères lourdes",
+    "target": "3×12"
+   },
+   {
+    "id": "bench_db",
+    "name": "Développé couché haltères",
+    "target": "4×8 · ~70 % de ta charge habituelle",
+    "tip": "Descente 3 s. Le poignet ne part pas en arrière."
+   },
+   {
+    "id": "incline_db",
+    "name": "Développé incliné haltères",
+    "target": "3×10 · ~70 %"
+   },
+   {
+    "id": "fly_cable",
+    "name": "Poulie vis-à-vis prise basse",
+    "target": "3×12"
+   },
+   {
+    "id": "rear_fly",
+    "name": "Pec fly inversé",
+    "target": "3×12 (si temps)"
+   },
+   {
+    "id": "rope_pushdown",
+    "name": "Triceps corde, poulie haute",
+    "target": "3×15 · 15–17,5 kg",
+    "tip": "Douleur ≤2/10. Au-dessus de 15 kg, ça piquait mercredi."
+   },
+   {
+    "id": "overhead_rope",
+    "name": "Extension triceps overhead à la corde",
+    "target": "2×15 · 10–12,5 kg",
+    "tip": "Seulement si le pushdown est passé à ≤2/10. Position la plus sensible."
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "kind": "pull",
+  "title": "Pull · dos, biceps",
+  "time": "11:30–13:00",
+  "week": 1,
+  "note": "Même séance que lundi, essaie +2,5 kg au rowing si tout est propre.",
+  "exercises": [
+   {
+    "id": "row_v",
+    "name": "Rowing barre, prise en V neutre",
+    "target": "Crescendo 40 → 50 → 60 kg · 2 reps au top"
+   },
+   {
+    "id": "pullups",
+    "name": "Tractions",
+    "target": "4×8–10 au poids du corps",
+    "tip": "Pas de lest cette semaine."
+   },
+   {
+    "id": "pulldown",
+    "name": "Tirage poulie haute vers le bassin",
+    "target": "3×12"
+   },
+   {
+    "id": "face_pull",
+    "name": "Face pull",
+    "target": "3×15"
+   },
+   {
+    "id": "shrugs",
+    "name": "Shrugs",
+    "target": "2×12"
+   },
+   {
+    "id": "spider_curl",
+    "name": "Curl spider",
+    "target": "3×12"
+   },
+   {
+    "id": "hammer_curl",
+    "name": "Curl marteau alterné",
+    "target": "3×10"
+   },
+   {
+    "id": "cable_curl",
+    "name": "Curl poulie basse",
+    "target": "2×15",
+    "tip": "Finisher, sans négative lourde."
+   }
+  ]
+ }
+]
